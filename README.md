@@ -10,13 +10,13 @@ Full Stack Developer con gran capacidad de trabajo en equipo, resolutivo, detall
    - Frontend: Next, Redux Toolkit
    - Backend: Nest
    - Base de datos: PostgreSQL y Sequelize.
-   - Repositorio de GitHub: [Nest Backend](enlace_al_backend) | [Nest Frontend](enlace_al_frontend)
+   - Repositorio de GitHub: [Nest Backend](https://github.com/leonardobaranelli/nest-backend) | [Nest Frontend](https://github.com/MateoBaravalle/PF-NEST-Front)
 
 2. **Proyecto Individual - "Pokeworld":** Creé una SPA sobre Pokémon, utilizando una API externa. La página cuenta con filtros, búsqueda por nombre, y la posibilidad de crear un Pokémon personalizado.
    - Frontend: React, Redux
    - Backend: NodeJS, Express
    - Base de datos: PostgreSQL y Sequelize.
-   - Repositorio de GitHub: [PI Pokémon](enlace_al_proyecto)
+   - Repositorio de GitHub: [PI Pokémon](https://github.com/MateoBaravalle/PF-NEST-Front)
 
 ## Tecnologías que manejo 🛠️
 - **Frontend:** JavaScript, HTML, CSS, React, Redux, Tailwind CSS.
@@ -30,9 +30,9 @@ Full Stack Developer con gran capacidad de trabajo en equipo, resolutivo, detall
 - Full Stack Web Developer. Henry Bootcamp. 800 horas de cursado teórico-práctico. 2023
 
 ## Idiomas 🌐
-- Inglés C2 – Proficient: EF SET Certificate™
+- Inglés C2 – Proficient: [EF SET Certificate™](https://www.efset.org/cert/5M8XvN)
 
 ## Contacto 📬
-- [LinkedIn](enlace_a_tu_linkedin)
-- [Correo Electrónico](tu@email.com)
+- [LinkedIn](https://www.linkedin.com/in/mateo-baravalle/)
+- [Correo Electrónico](mateobara2@gmail.com)
 
