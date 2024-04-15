@@ -7,7 +7,7 @@ Full Stack Developer with great teamwork skills, solution-oriented, detail-orien
 
 ## Featured Projects 🌟
 1. **Final Project - "Nest":** Developed the backend of a property rental and listing application, managing third-party authentication and the proper functioning of the Rest API. Also contributed to the frontend with Next and Redux Toolkit.
-   - Frontend: Next, Redux Toolkit
+   - Frontend: Next, Redux Toolkit, TailwindCSS
    - Backend: Nest
    - Database: PostgreSQL and Sequelize.
    - GitHub Repository: [Nest Backend](https://github.com/leonardobaranelli/nest-backend) | [Nest Frontend](https://github.com/MateoBaravalle/PF-NEST-Front)
@@ -19,7 +19,7 @@ Full Stack Developer with great teamwork skills, solution-oriented, detail-orien
    - GitHub Repository: [PI Pokémon](https://github.com/MateoBaravalle/PF-NEST-Front)
 
 ## Technologies I Use 🛠️
-- **Frontend:** JavaScript, HTML, CSS, React, Redux, Tailwind CSS.
+- **Frontend:** JavaScript, HTML, CSS, React, Redux, Next, Nest, TailwindCSS.
 - **Backend:** NodeJS, Express.
 - **Database:** PostgreSQL, Sequelize, Firebase, Firestore.
 - **Tools:** Git, GitHub, Slack, Trello.
